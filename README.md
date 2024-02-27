@@ -55,12 +55,12 @@ Saving the Face recognition  model to Connect it to the website .
 Deploy 
 
 
-###Best.pt file 
+### Best.pt file 
 
 https://drive.google.com/drive/folders/1Xcy5gyP6tPt0-amba_H24CEvdn_mpin_?usp=drive_link
 
 
-###FaceModel:
+### FaceModel:
 
 https://drive.google.com/file/d/10JUjCgYbF8gLXSsA_8yTu_Y8QwhnEd5L/view?usp=drive_link
 
