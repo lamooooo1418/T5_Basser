@@ -74,7 +74,7 @@ Deploy
 
 -Wejdan Habib Alazmi.
 
--Ahlam Abdallah Alderweesh
+-Ahlam Abdallah Alderweesh.
 
 
 
