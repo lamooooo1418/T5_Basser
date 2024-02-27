@@ -15,6 +15,9 @@ We Collecting the data By
 
 - Output : The Annotated data with Reported information and Violation Cost.
 
+  ![image](https://github.com/lamooooo1418/T5_Basser/assets/54886477/18be3dfb-99f0-45b5-add2-54b1b1748477)
+
+
 ### Problem statement :
 The core of our Problem is how difficult to detect the moral public violation ,since that difficulty the Basser Idea come behind this . 
 
