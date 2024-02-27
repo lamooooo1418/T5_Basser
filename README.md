@@ -1,9 +1,9 @@
 # T5_Basser
-#### Abstract
+### Abstract
 Baseer project aims to address the challenge of detecting public moral violations through the use of an AI tool. The problem statement revolves around the difficulty in identifying and addressing such violations, prompting the development of the Baseer idea. The solution involves classifying public moral violations into categories such as clothes violation, garden fires, throwing waste, and graffiti infractions. The project utilizes a dataset divided into input and output sections for training the AI model. The methodology includes building a model using Keras and YOLO, with a focus on object detection and classification. The team achieved an accuracy of 96% with the YOLO model and 50% with the Keras model. The deployment of the Face Recognition model complements the efforts in detecting violations and reporting them effectively. The project's success in enhancing social behavior and promoting mutual respect demonstrates its potential impact. Future work includes improving model accuracy and extending its application to organizational settings for monitoring and maintaining social discipline.
 
 
-#### Data Description and Structure: 
+### Data Description and Structure: 
 This section will contain the dataset of Basser Project 
 -the dataset is divided into 
 
@@ -15,11 +15,11 @@ We Collecting the data By
 
 - Output : The Annotated data with Reported information and Violation Cost.
 
-#### Problem statement :
+### Problem statement :
 The core of our Problem is how difficult to detect the moral public violation ,since that difficulty the Basser Idea come behind this . 
 
 
-#### Solution :
+### Solution :
 This section will discuss the specific techniques of the core Problem.
 
 -First Classifying the public moral violation that to detect as
